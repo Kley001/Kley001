@@ -14,8 +14,11 @@ Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experi
 <p align = "left">
   <a href="https://www.linkedin.com/in/kleider-vasquez" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=blue&logo=LinkedIn&logoColor=F&label=">
   </a>
+</p>  
+
+<p align = "left">
     <a href="https://sites.google.com/view/kleidervasquez/" target+"_blank" ><img alt="Google Sites" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sites&color=black&logo=Google&logoColor=F&label=">
-  </a>
-  
-</p>      
+  </a>  
+</p>  
+
 
