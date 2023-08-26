@@ -10,7 +10,7 @@ Manejo herramientas y lenguajes de programación, tales como: R, SAS, SQL, Excel
 
 Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experiencias. 😊
 
-<h3 align = "left"> A continuación, se encuentra información más detallada acerca de mis estudios, certificaciones, proyectos y curiosidades:: </h3>
+<h3 align = "left"> A continuación, se encuentra información más detallada acerca de mis estudios, certificaciones, proyectos y curiosidades: </h3>
 <p align = "left">
     <a href="https://sites.google.com/view/kleidervasquez/" target+"_blank" ><img alt="Google Sites" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sites&color=black&logo=Google&logoColor=F&label=">
   </a>  
