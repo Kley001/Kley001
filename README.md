@@ -1,4 +1,4 @@
-<img width = 100% src = "https://statistics.mandela.ac.za/statistics/media/Store/images/Home2022/1170x300-Pixles2.jpg">
+<img align="center" src = "https://statistics.mandela.ac.za/statistics/media/Store/images/Home2022/1170x300-Pixles2.jpg" width="500" height="320" />
 
 ## ¡Hola, mundo! 👋
 
@@ -8,11 +8,9 @@ Un Estadístico con énfasis en Ciencia de Datos, egresado de la Universidad Nac
 
 Soy un apasionado por la Ciencia, que le gusta asumir retos. Me motiva el deseo de aprender y el poder desarrollar mis habilidades. Tengo sentido de pertenencia, sé trabajar en equipo y soy responsable con mis obligaciones. Igualmente, me considero una persona creativa, respetuosa y dinámica. Tengo capacidad investigativa y poseo conocimientos en Analítica, Series de Tiempo, Análisis Multivariado, DOE y Análisis Espacial.
 
-R, SAS, SQL, Excel, Python, Power BI, MATLAB y Mathematica. 
-
 <h3 align = "left"> Manejo herramientas y lenguajes de programación, tales como: </h3>
 
-
+R, SAS, SQL, Excel, Python, Power BI, MATLAB y Mathematica. 
 
 <h3 align = "left"> A continuación, se encuentra información más detallada acerca de mis estudios, certificaciones, proyectos y curiosidades: </h3>
 <p align = "left">
