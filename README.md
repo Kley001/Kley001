@@ -1,6 +1,6 @@
-### ¡Hola, mundo! 👋
+## ¡Hola, mundo! 👋
 
-## Soy Kleider Stiven Vásquez Gómez 
+### Soy Kleider Stiven Vásquez Gómez 
 
 Un Estadístico con énfasis en Ciencia de Datos, egresado de la Universidad Nacional de Colombia, sede Medellín.
 
@@ -10,17 +10,15 @@ Manejo herramientas y lenguajes de programación, tales como: R, SAS, SQL, Excel
 
 Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experiencias. 😊
 
-
 <h3 align = "left"> A continuación, se encuentra información más detallada acerca de mis estudios, certificaciones, proyectos y curiosidades:: </h3>
+<p align = "left">
+    <a href="https://sites.google.com/view/kleidervasquez/" target+"_blank" ><img alt="Google Sites" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sites&color=black&logo=Google&logoColor=F&label=">
+  </a>  
+</p>  
 
 <p align = "left">
   <a href="https://www.linkedin.com/in/kleider-vasquez" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=blue&logo=LinkedIn&logoColor=F&label=">
   </a>
-</p>  
-
-<p align = "left">
-    <a href="https://sites.google.com/view/kleidervasquez/" target+"_blank" ><img alt="Google Sites" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sites&color=black&logo=Google&logoColor=F&label=">
-  </a>  
 </p>  
 
 <p align = "left">
@@ -53,3 +51,7 @@ Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experi
   </a>  
 </p> 
 
+<p align = "left">
+    <a href="https://www.udemy.com/certificate/UC-aec79113-de9b-419c-9e32-54669a2410c8/" target+"_blank" ><img alt="Udemy" src="https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=black&logo=Udemy&logoColor=F&label=">
+  </a>  
+</p>  
