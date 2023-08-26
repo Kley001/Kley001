@@ -1,3 +1,5 @@
+<img width = 100% src = "https://statistics.mandela.ac.za/statistics/media/Store/images/Home2022/1170x300-Pixles2.jpg">
+
 ## ¡Hola, mundo! 👋
 
 ### Soy Kleider Stiven Vásquez Gómez 
@@ -6,9 +8,11 @@ Un Estadístico con énfasis en Ciencia de Datos, egresado de la Universidad Nac
 
 Soy un apasionado por la Ciencia, que le gusta asumir retos. Me motiva el deseo de aprender y el poder desarrollar mis habilidades. Tengo sentido de pertenencia, sé trabajar en equipo y soy responsable con mis obligaciones. Igualmente, me considero una persona creativa, respetuosa y dinámica. Tengo capacidad investigativa y poseo conocimientos en Analítica, Series de Tiempo, Análisis Multivariado, DOE y Análisis Espacial.
 
-Manejo herramientas y lenguajes de programación, tales como: R, SAS, SQL, Excel, Python, Power BI, MATLAB y Mathematica. 
+R, SAS, SQL, Excel, Python, Power BI, MATLAB y Mathematica. 
 
-Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experiencias. 😊
+<h3 align = "left"> Manejo herramientas y lenguajes de programación, tales como: </h3>
+
+
 
 <h3 align = "left"> A continuación, se encuentra información más detallada acerca de mis estudios, certificaciones, proyectos y curiosidades: </h3>
 <p align = "left">
@@ -55,3 +59,5 @@ Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experi
     <a href="https://www.udemy.com/certificate/UC-aec79113-de9b-419c-9e32-54669a2410c8/" target+"_blank" ><img alt="Udemy" src="https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=black&logo=Udemy&logoColor=F&label=">
   </a>  
 </p>  
+
+<h3 align = "left"> Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experiencias. 😊 </h3>
