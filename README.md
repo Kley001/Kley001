@@ -1,4 +1,4 @@
-<img align="center" src = "https://statistics.mandela.ac.za/statistics/media/Store/images/Home2022/1170x300-Pixles2.jpg" width="800" height="200" />
+<img align="center" src = "https://statistics.mandela.ac.za/statistics/media/Store/images/Home2022/1170x300-Pixles2.jpg" width="800" height="300" />
 
 ## ¡Hola, mundo! 👋
 
