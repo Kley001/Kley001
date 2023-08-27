@@ -10,7 +10,17 @@ Soy un apasionado por la Ciencia, que le gusta asumir retos. Me motiva el deseo 
 
 <h3 align = "left"> Manejo herramientas y lenguajes de programación, tales como: </h3>
 
-R, SAS, SQL, Excel, Python, Power BI, MATLAB y Mathematica. 
+<code><img height="20" src="https://www.drugis.org/images/r-packages/rlogo.png"></code>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/234-2349830_r-studio-icon-png-transparent-png.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170762.png"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/105/17/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text-logo.png"></code>
+<code><img height="20" src="https://static.vecteezy.com/system/resources/previews/022/100/658/non_2x/microsoft-excel-logo-transparent-free-png.png"></code>
+<code><img height="20" src="https://b.thumbs.redditmedia.com/SjwZrcU0ECBPeeThegQDWVqTRPd_JQPJ-AKO2MAk7Us.png"></code>
+<code><img height="20" src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.jpg"></code>
+<code><img height="20" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2016.png"></code>
+<code><img height="20" src="https://www.studiocappello.it/cms2018/wp-content/uploads/2022/12/Fe2aJegXEAIwDBt.webp"></code>
+<code><img height="20" src="https://www.mathworks.com/help/examples/matlab/win64/MatlabLogoExample_08.png"></code>
+<code><img height="20" src="https://www.wolfram.com/events/mathematica-sessions-university-of-southampton-2018/img/spikey.png"></code>
 
 <h3 align = "left"> A continuación, se encuentra información más detallada acerca de mis estudios, certificaciones, proyectos y curiosidades: </h3>
 <p align = "left">
