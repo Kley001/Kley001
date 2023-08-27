@@ -10,7 +10,7 @@ Soy un apasionado por la Ciencia, que le gusta asumir retos. Me motiva el deseo 
 
 <h3 align = "left"> Manejo herramientas y lenguajes de programación, tales como: </h3>
 
-<code><img height="20" src="https://www.drugis.org/images/r-packages/rlogo.png"></code>
+<code><img height="50" src="https://www.drugis.org/images/r-packages/rlogo.png"></code>
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/234-2349830_r-studio-icon-png-transparent-png.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170762.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/105/17/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text-logo.png"></code>
