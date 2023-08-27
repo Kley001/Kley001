@@ -2,8 +2,6 @@
 
 ## ¡Hola, mundo! 👋
 
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo0dGh2NjB2NzU4Ym43cWJqOWdqNmU0Zmw0ODJocDBtdGxpaXN3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
-
 ### Soy Kleider Stiven Vásquez Gómez 
 
 Estadístico con énfasis en Ciencia de Datos, egresado de la Universidad Nacional de Colombia, sede Medellín.
@@ -23,6 +21,8 @@ Soy un apasionado por la Ciencia, que le gusta asumir retos. Me motiva el deseo 
 <code><img height="38" src="https://www.studiocappello.it/cms2018/wp-content/uploads/2022/12/Fe2aJegXEAIwDBt.webp"></code>
 <code><img height="38" src="https://www.mathworks.com/help/examples/matlab/win64/MatlabLogoExample_08.png"></code>
 <code><img height="38" src="https://www.wolfram.com/events/mathematica-sessions-university-of-southampton-2018/img/spikey.png"></code>
+
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo0dGh2NjB2NzU4Ym43cWJqOWdqNmU0Zmw0ODJocDBtdGxpaXN3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 <h3 align = "left"> A continuación, se encuentra información más detallada acerca de mis estudios, certificaciones, proyectos y curiosidades: </h3>
 
