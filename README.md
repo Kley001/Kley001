@@ -6,7 +6,9 @@
 
 ### Soy Kleider Stiven Vásquez Gómez 
 
-<a href="https://www.linkedin.com/in/kleider-vasquez"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+<p align="center">
+	<a href="https://www.linkedin.com/in/kleider-vasquez"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=blue&logo=LinkedIn&logoColor=F&label="></a>
+</p>
 
 Estadístico con énfasis en Ciencia de Datos, egresado de la Universidad Nacional de Colombia, sede Medellín.
 
