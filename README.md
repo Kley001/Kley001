@@ -101,3 +101,5 @@ Soy un apasionado por la Ciencia, que le gusta asumir retos. Me motiva el deseo 
 </p>  
 
 <h3 align = "left"> Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experiencias. 😊 </h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kley001" alt="Kley001" /> </p>
