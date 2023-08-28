@@ -2,7 +2,11 @@
 
 ## ¡Hola, mundo! 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kley001&style=plastic&color=blueviolet" alt="Kley001" /> </p>
+
 ### Soy Kleider Stiven Vásquez Gómez 
+
+<a href="https://www.linkedin.com/in/kleider-vasquez"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 
 Estadístico con énfasis en Ciencia de Datos, egresado de la Universidad Nacional de Colombia, sede Medellín.
 
@@ -101,5 +105,3 @@ Soy un apasionado por la Ciencia, que le gusta asumir retos. Me motiva el deseo 
 </p>  
 
 <h3 align = "left"> Te invito a conectar conmigo y emprender un camino lleno de aprendizaje y experiencias. 😊 </h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kley001" alt="Kley001" /> </p>
