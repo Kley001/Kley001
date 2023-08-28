@@ -1,14 +1,10 @@
 <img align="center" src = "https://statistics.mandela.ac.za/statistics/media/Store/images/Home2022/1170x300-Pixles2.jpg" width="1000" height="300" />
 
-## ¡Hola, mundo! 👋
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kley001&style=plastic&color=blueviolet" alt="Kley001" /> </p>
 
-### Soy Kleider Stiven Vásquez Gómez 
+## ¡Hola, mundo! 👋
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/kleider-vasquez"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=blue&logo=LinkedIn&logoColor=F&label="></a>
-</p>
+### Soy Kleider Stiven Vásquez Gómez 
 
 Estadístico con énfasis en Ciencia de Datos, egresado de la Universidad Nacional de Colombia, sede Medellín.
 
