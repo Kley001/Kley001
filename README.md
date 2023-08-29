@@ -4,7 +4,9 @@
 
 ## ¡Hola, mundo! 👋
 
-### Soy Kleider Stiven Vásquez Gómez 🇨🇴
+### Soy Kleider Stiven Vásquez Gómez 
+
+<code><img height="40" src="https://logodownload.org/wp-content/uploads/2023/05/bandeira-colombia-flag.png"></code>
 
 Estadístico con énfasis en Ciencia de Datos, egresado de la Universidad Nacional de Colombia, sede Medellín.
 
